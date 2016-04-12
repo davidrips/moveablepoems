@@ -1,0 +1,55 @@
+.line{
+  /*float:left;*/
+  clear:both;
+  /*display:inline-block;*/
+  text-align: left;
+
+
+}
+
+header {
+  /*display: inline-block;
+  margin-left: auto;
+  margin-right: auto;*/
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  cursor: arrow;
+}
+
+
+.right{
+  /*float:right;*/
+  clear:both;
+  text-align: right;
+  /*display:inline-block;*/
+}
+
+
+#container{
+  max-width: 300px;
+  min-height:300px;
+  padding: 2px;
+  margin-left: auto;
+  margin-right: auto;
+
+  border-top: solid 1px slategray;
+  border-bottom: solid 1px slategray;
+  border-right: solid 1px slategray;
+  border-left: solid 1px slategray;
+
+
+
+}
+
+p{
+  size:16 pt;
+  margin-top: 2px;
+  margin-bottom: 0;
+  cursor:pointer;
+
+
+
+}
